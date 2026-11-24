@@ -55,3 +55,22 @@ Web Developer (**DAW**), **Data Engineering in Industrial Processes** student at
       <sub><code>Jupyter Notebook</code> · <code>Llama 3.3</code> · <code>RAG</code> · <code>Agents</code></sub><br /><br />
       Specialized AI agent engineered to answer domain-specific queries using <em>Retrieval-Augmented Generation (RAG)</em> architectures.
     </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ros1ndoo/ml-prediccion-retail">ml-prediccion-retail</a></strong><br />
+      <sub><code>Jupyter Notebook</code> · <code>Machine Learning</code> · <code>RFM</code></sub><br /><br />
+      Predictive Machine Learning model based on RFM customer segmentation to identify repurchase probability in retail e-commerce.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ros1ndoo/Natural-Language-Processing">Natural-Language-Processing</a></strong><br />
+      <sub><code>Jupyter Notebook</code> · <code>NLP</code> · <code>Sentiment Analysis</code></sub><br /><br />
+      Natural Language Processing (NLP) pipeline and text classification applied to real-world customer reviews from Trustpilot.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ros1ndoo/acreditacion">acreditacion</a></strong><br />
+      <sub><code>Python</code> · <code>Web App</code> · <code>Full-Stack</code></sub><br /><br />
+      Web application designed to streamline university accreditation workflows, managing academic centers, degree programs, users, and deadlines.
+    </td>
+  </tr>
+</table>
