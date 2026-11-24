@@ -14,14 +14,14 @@ Zaragoza, Spain &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/dario-este
 
 ### 👨‍💻 About Me
 
-Web Developer (**DAW**), **Data Engineering in Industrial Processes** student at the **University of Zaragoza (UNIZAR)**, and **Master's in Data Science & AI** graduate from **Evolve**. I bridge software engineering with data analytics and artificial intelligence to build scalable, data-driven solutions for real-world problems.
+Web Developer (**DAW**), **Data Engineering in Industrial Processes** student at the **University of Zaragoza (UNIZAR)**, and **Master's in Data Science & AI** graduate from **[Evolve](https://evolve.es/)**. I bridge software engineering with data analytics and artificial intelligence to build scalable, data-driven solutions for real-world problems.
 
 ---
 
 ### 🎓 Education & Certifications
 
 * **B.Sc. in Data Engineering in Industrial Processes** — *University of Zaragoza (UNIZAR)*
-* **Master's in Data Science & Artificial Intelligence** — *Evolve*
+* **Master's in Data Science & Artificial Intelligence** — *[Evolve](https://evolve.es/)*
 * **Higher Technician in Web Application Development (DAW)**
 * **Anthropic Certifications** — *Claude in Amazon Bedrock* · *Model Context Protocol (MCP): Advanced Topics*
 
@@ -29,8 +29,9 @@ Web Developer (**DAW**), **Data Engineering in Industrial Processes** student at
 
 ### 🛠️ Tech Stack
 
-* **Data & AI:** `Python` · `SQL` · `Power BI` · `Pandas` · `NumPy` · `Scikit-Learn` · `NLP` · `RAG & Agents` · `Claude / MCP`
-* **Web, Cloud & IoT:** `JavaScript` · `HTML5` · `CSS3` · `REST APIs` · `Streamlit` · `ESP32` · `Amazon Bedrock` · `Git`
+* **Languages:** `Python` · `R` · `C++` · `SQL` · `JavaScript` · `HTML5` · `CSS3`
+* **Data, AI & Optimization:** `Pandas` · `NumPy` · `Scikit-Learn` · `Power BI` · `NLP` · `RAG & Agents` · `Claude / MCP` · `ROI` · `GLPK`
+* **Web, Cloud & IoT:** `Django` · `REST APIs` · `Streamlit` · `ESP32` · `Amazon Bedrock` · `Git`
 
 ---
 
